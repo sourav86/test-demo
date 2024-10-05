@@ -1,2 +1,2 @@
 # test-demo
-This is for git repo tutorial purposes
+This is for git repo tutorial
